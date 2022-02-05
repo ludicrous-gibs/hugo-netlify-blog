@@ -9,6 +9,9 @@ taxonomies:
 
 permalinks:
   post: /:filename/
+  
+media_folder: static/img
+public_folder: /img
 
 # See https://feathericons.com/
 # The value of pre is the icon name
